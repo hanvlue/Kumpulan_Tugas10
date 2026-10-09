@@ -1,0 +1,12 @@
+.box{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10rem;
+}
