@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foto-biodata {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.border-biodata {
+    border: 2px solid #000000;
+    box-shadow: none;
+}
